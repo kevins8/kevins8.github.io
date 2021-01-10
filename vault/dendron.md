@@ -26,3 +26,5 @@ Welcome to Dendron! This guide will help get you started with your knowledge bas
 ## A Ref
 
 ((ref:[[dendron]]#Summary:#A Ref))
+
+Canary
