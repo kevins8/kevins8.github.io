@@ -1,0 +1,72 @@
+
+Would a rose by any other inode be just as sweet?
+    - nope
+    - it would be a different rose
+    - probably garbage collected
+
+- motivation of problem
+    - python code
+
+- unix, everything is a file
+    - physical files
+    - sockets
+    - processes (procfs)
+
+- file system is big topic
+    - file system
+        - Unix File System (UFS)
+        - windows FAT, FAT32 and NTFS
+        - linux uses ext2 and ext3
+        - FUSE file system (user level)
+    - networked file systems
+        - nsf mount
+        - ftp
+    - dropbox
+
+- when you open a file, you get reference to a file descriptor
+    - todo: file descriptor struct
+    - access control
+    - name means nothing
+
+- computer maps your concept to file to series of memory addresses in
+  the computer
+    - eg. you have a table but one leg is in your basement, another in
+      your attic and the two sides are in the building down the street
+      - everytime you go down, the table is put together
+
+- if new file,
+    - create new inode, else fetch existing
+
+- when you remove a file
+    - there is no concept of delete
+    - when you call rm, script calls unlink
+    - decrement the ref count on file
+    - marks inode of file as free (reusable)
+        - in unix, you can use lsof to recover file as long as process
+          still has reference to it
+    - physical data might persist but you can't get to it (that's not
+      true, you can and its a trick that disk recovery systems use)
+        - window uses this trick in recycling bin
+        - new unix ysstems with ext3 onward also do #todo:fact
+    - mac has srm which overwrites file before unlinking it
+
+- can you detect a file has been removed
+    - check the nlink number
+    - tells you number of links file system still has to it
+        - this is different from number of open file descriptors
+    - if you're writing to a file and it has no more links, should you
+      report an error?
+        - probably
+        - logging, high performance, probably don't want to do the check
+        - writing to a file that no longer exists, you lose data
+        - not writing to a file that you think you're writing, could
+          hide malicious activity
+
+
+Takeaway:
+
+- file won't go as long as there are open connections to it
+- nothing really dies, they just become unlinked & then recycled
+- file names are abstraction, inode and file handler is implementation
+- if you want to remove, srm
+- always be paranoid

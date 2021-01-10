@@ -1,0 +1,57 @@
+# General Jekyll Config
+pygments: true
+url: http://0.0.0.0:4000
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+markdown: kramdown
+
+# Theme customization - please change from the defaults!
+theme:
+  # Color for top bar, links, etc
+  highlight_color: '#3498db'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: kevinslin
+    twitter: kevins8
+    facebook: kevinslin
+    instagram: kevins8
+
+    #bitbucket: philipj
+    #hacker_news: kevinslin
+    #stackexchange: 348619
+    #stackoverflow: 348619
+    #tumblr: animalygifs
+    #linkedin: philipjagielski
+    #gplus: 110552447039675960964
+
+  # "Hi, I'm _______"
+  name: Kevin
+  email: kevinslin8@gmail.com
+  tagline: "weak opinions, strongly held"
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-46858019-1
+
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: true
+
+# Extensions
+picture:
+  source: "assets/pics"
+  output: "generated"
+  markup: "picture"
+  presets:
+    default:
+      ppi: [1, 1.5]
+      attr:
+        class: blog-full
+        itemprop: image
+      source_lrg:
+        media: "(min-width: 40em)"
+        width: 700
+      source_med:
+        media: "(min-width: 30em)"
+        width: 450
+      source_default:
+        width: 800

@@ -1,0 +1,31 @@
+
+FD Object
+int fstat(int fd, struct stat *buf)
+- takes a file descriptor and fills out stat function
+- returns 0 or -1 on error
+
+struct stat{
+     dev_t     st_dev;
+     ino_t     st_ino;
+     mode_t     st_mode;
+     nlink_t     st_nlink;
+     uid_t     st_uid;
+     gid_t     st_gid;
+     dev_t     st_rdev;
+     off_t     st_size;
+     unsigned long stbliksize;
+     unsigned long st_blocks;
+     time_t     st_atime;
+     time_t     st_mtime;
+     time_t     st_ctime;
+};
+
+
+srm vs rm
+
+sources:
+
+http://unix.stackexchange.com/questions/48200/recovered-deleted-files-on-mac-by-command-line
+[bring back deleted files](http://archive09.linux.com/feature/58142)
+
+[](http://stackoverflow.com/questions/2028874/what-happens-to-an-open-file-handler-on-linux-if-the-pointed-file-gets-moved-de)

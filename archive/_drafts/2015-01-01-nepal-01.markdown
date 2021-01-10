@@ -1,0 +1,57 @@
+---
+layout: post
+title: Lost Luggage, Earthquakes and Other Natural Disasters
+categories: [blog]
+tags: [lesson]
+status: publish
+type: post
+published: false
+---
+
+You know that feeling you get when you show up in a Nepalese airport to go treking for two weeks and find out you have no luggage? I didn't know this feeling until  December 4, 2015.
+
+I've just flown in from China to Kathmandu. My friend and I were both going to India to attend the wedding of a mutual friend. We figured while we were on the continent, we were also going to fly to Nepal to finish the Annapurna Circuit, a 200km trek across the himalayas and also widely considered to be the most beautiful trek in the world. My friend had already arrived earlier in the day. I thought over what my story was going to be when I met him.
+
+Because it did seem like a story. TODO hours ago, I left my cousin's house in Beijing to go to the Beijing Capital International airport. I arrived there a little before 2 hours ahead of time and went into the entrance marked "international departures". The first sign that anything was amiss was when the China Eastern Airline lady could not find my name in the system. I showed her my travelocity paper printout with my flight number; in turn, she showed me her DOS computer screen and my name not being on the manifest.
+
+I walked away from the counter and checked over my flight. I was on T-mobile which promised data in over 150 countries TODO around the world, China included. I went to the travelocity site and after a couple crashes and ignoring prompts to download the app, I finally got to my itinerary. That's when I noticed that my flight has been moved up by one hour. I go to the counter with my new flight and the clerk found my ticket. Unfortunately, the flight left at 8:30AM and the airline stops handing out tickets 40 minutes before departure. The time was 8:04AM.
+
+I cursed under my breath and asked to be switched over to a later flight. We switch to the TODO flight - this was the original flight in my itineray. The airline clerk explains to me that she is unable to check my bags in to my final destination (Kathmandu) because of the flight change and that I would have to pick up my bag in Kunming China (layover) before proceeding onto Nepal.
+
+The original layover was TODO hours. We were one hour late in departure and TODO hours late in landing. I had 30 minutes to grab my bag and get a new ticket. I made the decision to leave my luggage and make a dash for the airline counter. Like some hollywood flick, I make the counter at TODO, the last possible moment to get a ticket. I get my ticket but the airline says that they won't be able to check my bag in and that I won't have time to get it because the plane is currently boarding. They could ship my luggage but the next flight to Kathmandu was Monday, two days from now. There are no further flights to Kathmandu until then. I make the decision then to leave my luggage and run to the plane.  I skip the lines by looking very pathetic and asking and am the last person to get on the plane.
+
+So I arrived in Kathmandu without my luggage.
+
+The original plan was to spent a day in the city and take off for the trek the next day. The modified plan, we took two days in the city and a third day going on a side trip to bhaktapur and nagarkot FIXME. Monday morning, we took a taxi back to Kathmandu and I went to the airport bracing myself for the worst.
+
+Earlier that day, I got into a fight with my friend. My friend kept telling me that my luggage wasn't going to show up, which was funny at first but the persistent remidner wasn't helping. I eventually told him to cut it out because I was actually upset. My friend then told me how he was upset because I had cost us time on the trek. He says he likes traveling with me but that I wished I was more organized.
+
+Its true. Throughout my life I had a reputation for being impulsive and doing things on a whim. Whether it be biking 200 miles over two days from Houston to Austin or agreeing to join any club or project that seemed remotely interesting, this attitude has taken me a lot of places but also let me face a lot of pain. My usual strategy is a greedy algorithm, taking the most optimal local solution even though it's a far cry from the best. I've learned a lot from this like making the best out of the situation and thinking on my feet but this is not something that I should do moving forward.
+
+===
+
+Dynamic programming breaks problems into sub problems and is able to use similar problems from past times and apply them to the current situation. I need to learn from my mistakes and focus more on the details.
+
+This has been something that I've worked on in 2015. Focusing on details is vague and hardly actionalbe - I did everything from writing affirmations that "I will pay attention to details", to having a checklist of common fallacies and making sure that I'm not crossing them.
+
+Am I making this decisino from emotion?
+Sunk cost?
+...
+
+Also on this trip - I've made a list of all the things I was going to buy as well as where I was going to buy them from.
+
+It was good that I did because my luggage never showed up. I waited for an hour, watching the one line conveyer belt spit out bag after bag, but never seeing my own.
+
+In the past, this is when I would have asked the world "why me" attitude. Everyone says the world is not fair but no one believes that it's going to be their turn to receive the unfairness.
+
+On that day, I made a joke and went into town to buy all my trekking stuff again. The only consolation is that every other shop in the strip sells trekking equipment, all at a fraction of American prices, and I ended up getting everything including bag and all fro < $200.
+
+It was unforunate that my bag was gone but it wasn't the end of the world. In life, you don't know what's going to happen. While we can hope for the best case, its wise to plan for the worst (as best case in most cases does not require much extra planning). It's important to keep calm and carry on.
+
+In the end, we still managed to finish the trek as well as go on a 3 day side trip to Tilicho lake (claimed by Nepal to be both the highest and biggest lake but at 4919m and 4.8 square km, it is neither). We simply walked a little faster and made up some time by doing TODO km on bus once we crossed the pass. We also both caught a cough from Kathmandu, which claims the title of second most polluted city in the world.
+
+Point is, the world didn't end and we had a good trek. Even my luggage wasn't completely lost - when we got back to Kathmandu, the airline did send over my luggage. The bad news is that my cousins had given me a bag of fruit before I left and sitting around for two weeks under pressure is not the ideal conditions for fruit. My entire bag smelled like something died and the top layer of clothing all had liquids bleached on the inside.
+
+So my takeaways from the whole ordeal - life isn't fair and that's okay. As my old math teacher in high school used to say, "when shit happens, make sure you have toilet paper".  Also, learning from my mistakes. Air travel is notoriously known as the work of the devil, so always check for flight changes before hand. Plan for worst case - even if I had made my flight, there could be the chance that my stuff didn't show up. It didn't make sense for me to have all my money in a bag I'm checking in. Also, don't put fruit in the same bag. The Kevin at the end of 2015 handled this situation very differently from Kevin's of the past. The Kevin of 2016 will not let this happen but in the meantime, at least we know this.
+
+Going forward into 2016, I will try not to be caught with missing luggage. At the very least, I will not be caught with fruit infested, money laundered missing luggage. My new year resolution is to focus more on details, while at the same time not being completely caught up in them. But its good to know that if it did, I can handle it. After all, I can always go to Nepal and buy everything. So if there's one thing to take away from this - never put fruit in checked in luggage.
